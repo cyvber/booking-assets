@@ -1,1 +1,1 @@
-# booking-mock-assets
+# booking-assets
